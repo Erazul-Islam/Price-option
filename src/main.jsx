@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import { RouterProvider, createBrowserRouter } from 'react-router-dom'
-import MainLayOut from './LayOut/MainLayOut'
-import Home from './Components/Home/Home'
-import Products from './Components/Products/Products'
+import { RouterProvider} from 'react-router-dom'
+// import MainLayOut from './LayOut/MainLayOut'
+// import Home from './Components/Home/Home'
+// import Products from './Components/Products/Products'
 import myCreatedRoute from './Route/Route'
 
 // const myCreatedRoute = createBrowserRouter([
